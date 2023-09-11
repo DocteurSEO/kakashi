@@ -1,0 +1,6 @@
+name = "kakashi"
+main = "src/server.js"
+compatibility_date = "2023-09-11"
+kv_namespaces = [
+    { binding = "SHARINGAN", id = "df263a8b862e4c2ba284dd9443281983" }
+]
