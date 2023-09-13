@@ -8,7 +8,7 @@ export async function listData(options) {
 }
 
 export async function getData(key) {
-    return await SHARINGAN.get(key)
+    return await SHARINGAN.get(key);
 }
 
 export function generateRandomKey() {
